@@ -1,0 +1,12 @@
+{
+  "navigationBarTitleText": "实验室管理",
+  "usingComponents": {
+    "uni-popup-dialog": "../../uni_modules/uni-popup/components/uni-popup-dialog/uni-popup-dialog",
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "uni-popup-message": "../../uni_modules/uni-popup/components/uni-popup-message/uni-popup-message",
+    "uni-icons": "../../uni_modules/uni-icons/components/uni-icons/uni-icons",
+    "uni-list-item": "../../uni_modules/uni-list/components/uni-list-item/uni-list-item",
+    "uni-list": "../../uni_modules/uni-list/components/uni-list/uni-list",
+    "uni-section": "../../uni_modules/uni-section/components/uni-section/uni-section"
+  }
+}

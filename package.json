@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@dcloudio/uni-mp-vue": "^2.0.2-3080720230703001",
+    "@dcloudio/uni-ui": "^1.4.28",
+    "dayjs": "^1.11.9",
+    "uni-ui": "^1.0.0"
+  },
+  "devDependencies": {
+    "sass": "^1.63.6",
+    "sass-loader": "^10.1.1"
+  }
+}

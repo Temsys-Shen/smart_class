@@ -1,0 +1,6 @@
+
+	/* .gradient-border{
+	  border: 1px;
+	  border-image-source: linear-gradient(to bottom, #8f41e9, #578aef);
+	  border-image-slice: 1;
+} */

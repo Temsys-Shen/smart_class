@@ -1,0 +1,19 @@
+
+.center-container {
+		display: flex;
+		justify-content: center;
+}
+.center-container image {
+		max-width: 50%;
+		max-height: 50%;
+		object-fit: contain;
+}
+.bottom-buttons {
+		position: fixed;
+		bottom: 4%;
+		left: 2%;
+		right: 2%;
+}
+.bottom-buttons button {
+		margin-bottom: 2%;
+}

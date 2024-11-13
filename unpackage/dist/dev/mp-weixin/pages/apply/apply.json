@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "申请",
+  "usingComponents": {
+    "uni-segmented-control": "../../uni_modules/uni-segmented-control/components/uni-segmented-control/uni-segmented-control",
+    "uni-col": "../../uni_modules/uni-row/components/uni-col/uni-col",
+    "uni-row": "../../uni_modules/uni-row/components/uni-row/uni-row",
+    "uni-section": "../../uni_modules/uni-section/components/uni-section/uni-section"
+  }
+}

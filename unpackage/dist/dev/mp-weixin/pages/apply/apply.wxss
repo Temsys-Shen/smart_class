@@ -1,0 +1,24 @@
+
+.center_text {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		font-size: 70%;
+}
+.col_start {
+		height: 36px;
+		border-radius: 10px 0px 0px 10px;
+}
+.col_normal {
+		height: 36px;
+}
+.col_end {
+		height: 36px;
+		border-radius: 0px 10px 10px 0px;
+}
+.deep {
+		background-color: #99a9bf;
+}
+.light {
+		background-color: #4bc562;
+}

@@ -1,0 +1,1 @@
+<uni-list u-s="{{['d']}}" u-i="9e399530-0" bind:__l="__l"><uni-list-item wx:for="{{a}}" wx:for-item="r" wx:key="b" bindclick="{{r.a}}" u-i="{{r.c}}" bind:__l="__l" u-p="{{r.d}}"/></uni-list>

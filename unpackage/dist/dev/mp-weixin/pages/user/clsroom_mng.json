@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "教室管理",
+  "usingComponents": {
+    "uni-indexed-list": "../../uni_modules/uni-indexed-list/components/uni-indexed-list/uni-indexed-list",
+    "uni-tag": "../../uni_modules/uni-tag/components/uni-tag/uni-tag",
+    "uni-popup-dialog": "../../uni_modules/uni-popup/components/uni-popup-dialog/uni-popup-dialog",
+    "uni-popup": "../../uni_modules/uni-popup/components/uni-popup/uni-popup"
+  }
+}

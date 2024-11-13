@@ -1,0 +1,43 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/me",
+    "pages/buildings/buildings",
+    "pages/classrooms/classrooms",
+    "pages/apply/apply",
+    "pages/apply/progress",
+    "pages/user/login",
+    "pages/user/my_application",
+    "pages/user/user_info",
+    "pages/user/all_applications",
+    "pages/user/lab_mng",
+    "pages/user/user_mng",
+    "pages/user/clsroom_mng"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#007AFF",
+    "backgroundColor": "#F8F8F8",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "static/home_deep.png"
+      },
+      {
+        "pagePath": "pages/index/me",
+        "text": "我的",
+        "iconPath": "static/me.png",
+        "selectedIconPath": "static/me_deep.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

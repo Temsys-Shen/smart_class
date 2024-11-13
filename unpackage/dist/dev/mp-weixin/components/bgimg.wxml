@@ -1,0 +1,1 @@
+<view class="bgimg"><image src="{{a}}" mode="aspectFit"></image></view>

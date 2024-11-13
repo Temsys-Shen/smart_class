@@ -1,0 +1,105 @@
+{
+	"pages": [
+		//pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "CCST研讨室预约"
+			}
+		},
+		{
+			"path": "pages/index/me",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+		{
+			"path": "pages/buildings/buildings",
+			"style": {
+				"navigationBarTitleText": "教学楼列表"
+			}
+		},
+		{
+			"path": "pages/classrooms/classrooms",
+			"style": {
+				"navigationBarTitleText": "教室列表"
+			}
+		},
+		{
+			"path": "pages/apply/apply",
+			"style": {
+				"navigationBarTitleText": "申请"
+			}
+		},
+		{
+			"path": "pages/apply/progress",
+			"style": {
+				"navigationBarTitleText": "申请进度"
+			}
+		},
+		{
+			"path": "pages/user/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/user/my_application",
+			"style": {
+				"navigationBarTitleText": "我的申请"
+			}
+		},
+		{
+			"path": "pages/user/user_info",
+			"style": {
+				"navigationBarTitleText": "个人信息"
+			}
+		}, {
+			"path": "pages/user/all_applications",
+			"style": {
+				"navigationBarTitleText": "申请审批",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/user/lab_mng",
+			"style": {
+				"navigationBarTitleText": "实验室管理"
+			}
+		}, {
+			"path": "pages/user/user_mng",
+			"style": {
+				"navigationBarTitleText": "用户管理"
+			}
+		}, {
+			"path": "pages/user/clsroom_mng",
+			"style": {
+				"navigationBarTitleText": "教室管理"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#007AFF",
+		"backgroundColor": "#F8F8F8",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "主页",
+				"iconPath": "static/home.png",
+				"selectedIconPath": "static/home_deep.png"
+			},
+			{
+				"pagePath": "pages/index/me",
+				"text": "我的",
+				"iconPath": "static/me.png",
+				"selectedIconPath": "static/me_deep.png"
+			}
+		]
+	}
+}

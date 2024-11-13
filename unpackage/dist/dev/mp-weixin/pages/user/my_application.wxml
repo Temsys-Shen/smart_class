@@ -1,0 +1,1 @@
+<view style="padding:1em"><uni-segmented-control wx:if="{{b}}" bindclickItem="{{a}}" u-i="2753d53a-0" bind:__l="__l" u-p="{{b}}"/></view><uni-list u-s="{{['d']}}" u-i="2753d53a-1" bind:__l="__l"><uni-list-item wx:for="{{c}}" wx:for-item="a" wx:key="b" bindclick="{{a.a}}" u-i="{{a.c}}" bind:__l="__l" u-p="{{a.d}}"/></uni-list>
